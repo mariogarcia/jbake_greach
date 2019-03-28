@@ -1,0 +1,33 @@
+= Documentation
+@marioggar
+2019-03-28
+:jbake-type: page
+:jbake-status: published
+:jbake-tags: project,github,java
+:idprefix:
+
+== Build source code ==
+
+To build source code just execute:
+
+[source, bash]
+----
+./gradlew clean build
+----
+
+== Tests ==
+
+We're using Spock for testing. This is an example:
+
+[source, java]
+----
+TODO
+----
+
+== Javadoc ==
+
+You can find javadoc here TODO
+
+== User Guide ==
+
+You can find user guide link:guide/index.html[]

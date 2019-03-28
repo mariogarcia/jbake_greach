@@ -1,0 +1,22 @@
+= Downloads
+@marioggar
+2019-03-28
+:jbake-type: page
+:jbake-status: published
+:jbake-tags: project,github,java
+:idprefix:
+:nav: downloads
+
+== Releases ==
+
+These are the latest releases:
+
+|===
+|Version |Link
+
+|0.2.0
+|link
+
+|0.1.0
+|link
+|===
